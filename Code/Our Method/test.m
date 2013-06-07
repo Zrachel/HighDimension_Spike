@@ -12,7 +12,7 @@ m_signallength = size(m_signal.raster_data,2);
 for m_width = 150:50:m_signallength-150
     %% Load data
     n_bin = (m_signallength-m_width)/m_interval+1;
-    savefilename = create_binned_data_from_raster_data(f_dir,f_name,50*3,50);
+    savefilename = create_binned_data_from_raster_data(f_dir,f_name,m_width,50);
     
     %% Creating a classifier and a preprocessor
     the_feature_preprocessors{1} = zscore_normalize_FP;
