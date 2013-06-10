@@ -1,7 +1,7 @@
 HighDimension_Spike
 ===================
 
-Jie Fu, National University of Singapore
+Jie Fu, National University of Singapore, Singapore
 
-Rachel Zhang, Zhejiang University
+Rachel Zhang, Zhejiang University, China
 
