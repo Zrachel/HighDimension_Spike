@@ -1,6 +1,6 @@
 HighDimension_Spike
 ===================
-based on a CVPR 2013 paper. 
+based on Blessing of Dimensionality: High-dimensional Feature and Its Efﬁcient Compression for Face Veriﬁcation, CVPR 2013 
 
 Jie Fu, National University of Singapore
 
