@@ -1,8 +1,8 @@
 
 %%  1.  Create strings listing where the toolbox and the tutoral data directories are
 
-toolbox_directory_name = '../../ndt.1.0.0/'  % put name of path to the Neural Decoding Toolbox
-raster_data_directory_name = 'Zhang_Desimone_7objects_raster_data/';   % put name of path to the raster data
+toolbox_directory_name = '/Users/Fujie/GitProject/highdimension_spike/Code/ndt.1.0.0/'  % put name of path to the Neural Decoding Toolbox
+raster_data_directory_name = '/Users/Fujie/GitProject/highdimension_spike/Data/Zhang_Desimone_7objects_raster_data/';   % put name of path to the raster data
 
 
 
