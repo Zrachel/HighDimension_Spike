@@ -1,8 +1,8 @@
 
 %%  1.  Create strings listing where the toolbox and the tutoral data directories are
 
-toolbox_directory_name = '/Users/Fujie/GitProject/highdimension_spike/Code/ndt.1.0.0/'  % put name of path to the Neural Decoding Toolbox
-raster_data_directory_name = '/Users/Fujie/GitProject/highdimension_spike/Data/Zhang_Desimone_7objects_raster_data/';   % put name of path to the raster data
+toolbox_directory_name = '..\'  % put name of path to the Neural Decoding Toolbox
+raster_data_directory_name = '..\..\Data\Zhang_Desimone_7objects_raster_data\';   % put name of path to the raster data
 
 
 
@@ -184,7 +184,7 @@ plot_obj.significant_event_times = 0;
 
 
 % optional argument, can plot different types of results
-%plot_obj.result_type_to_plot = 2;  % for example, setting this to 2 plots the normalized rank results
+% plot_obj.result_type_to_plot = 2;  % for example, setting this to 2 plots the normalized rank results
 
 
 plot_obj.plot_results;   % actually plot the results
